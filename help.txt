@@ -1,0 +1,19 @@
+NEST JS ingredients:
+    Controller
+    Modules (controller va service modellarni ozida mujassamlaydi)
+    Services
+    Guards
+    Pipes
+
+NEST JS da 4 xil framework dan foydalaniladi:
+    MVC
+    Dependency Injection
+    Middleware
+    Decorator pattern (DESIGN pattern)
+
+Module Decorator can make properties:
+    providers
+    controllers
+
+    ** har bir Module ichida decorator boladi va shu orqali oddiy javasctript classi metadata bn boyitiladi, kuchliroq boladi
+
