@@ -5,8 +5,11 @@ export class DogService {
   public getHello(): string {
     return 'WOW-WOW';
   }
-
   public introduce(): string {
-    return 'My name is Tuzik';
+    return 'My nam is Rex';
+  }
+
+  public modifyDetail(): string {
+    return 'Seuccesfully modified';
   }
 }
