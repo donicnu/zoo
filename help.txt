@@ -17,3 +17,4 @@ Module Decorator can make properties:
 
     ** har bir Module ichida decorator boladi va shu orqali oddiy javasctript classi metadata bn boyitiladi, kuchliroq boladi
 
+yaxshilab organ

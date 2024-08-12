@@ -10,6 +10,6 @@ export class DogService {
   }
 
   public modifyDetail(): string {
-    return 'Seuccesfully modified';
+    return 'Succesfully modified';
   }
 }
